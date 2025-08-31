@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@SadaqathUmair-SU**
-- 👀 I’m interested in, but not limited to **Software/Application Engineer, Web 3.0, Machine Learning, Artificial Intelligence, Ethical Hacking, Cloud and Security domains.**
-- 🌱 I’m currently working as a **Full Stack Engineer** and exploring different technologies.
-- 💞️ I’m looking to collaborate on solving complex problems and building efficient **softwares, machine learning models etc.**
+- 👀 I’m a Software Engineer II (AI/ML) who loves solving problems across, but not limited to, **Software/Fullstack Engineering, AI, Machine Learning, Systems Engineer, Infrastructure Engineering, GPU's, Ethical Hacking, Cloud, Security domains and Web3.0.**
+- 🌱 I’m currently working as a **Software Engineer II** @Eventbrite.
+- 💞️I enjoy tackling difficult problems in diverse fields such as healthcare, education, cybersecurity, and Space etc by identifying critical gaps and building efficient software solutions along with AI and machine learning models to address them.
 - 📫 How to reach me? **[LinkedIn](https://www.linkedin.com/in/sadaqath-umair-hi15) [Twitter](https://twitter.com/Sadaqath_Umair)**
 
 <!---
